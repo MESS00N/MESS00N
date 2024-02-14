@@ -11,21 +11,36 @@ With a wide range of experience in IT sector starting from administration, devel
 
 
 Version Control System tool: GIT (Gitlab, GitHub, Bitbucket)
+
 Operating Systems: Linux, Windows
+
 Configuration Management: Ansible, Terraform
+
 Scripting: Shell Scripting, Groovy Scripting, Python Scripting
+
 Build Tools: Maven, Ant, Gradle, NPM
+
 Web Server: Apache httpd, IIS, IBM HTTP Server
+
 Application Server: Apache Tomcat, WebSphere,Weblogic,Jboss
+
 Monitoring & Observability: New Relic, Prometheus, Grafana, ELK, Appdynamics, Catchpoint, Dynatrace, Splunk
+
 Continuous Integration Tools: Jenkins
-Cloud Environment: AWS(EC2, IAM , ASG, ALB, ROUTE53,
-RDS,S3, EBS, EFS, VPC, EKS, ECS, Lambda, Kinesis, Cloudformation Template, Cloudwatch etc.)
+
+Cloud Environment: AWS(EC2, IAM , ASG, ALB, ROUTE53, RDS,S3, EBS, EFS, VPC, EKS, ECS, Lambda, Kinesis, Cloudformation Template, Cloudwatch etc.)
+
 Container and orchestration Tool: Docker , Kubernetes
+
 Bug Tracking Tool: Jira
+
 Application security and SCA: Blackduck, Fortify, Sysdig and SonarQube
+
 Document Tracking Tool: Confluence
+
 Artifactory storage: Jfrog
+
 Data Science: Machine learning, IQR, RNN LSTM, FBprophet.
+
 Others: Service Now, RDP, Putty, Winscp, FileNet,Cognos, Postman
 
